@@ -6,7 +6,8 @@ tags:
   - outreach
 ---
 
-![Livestream Screenshot](https://kisleif.github.io/WAVE-hamburg-contrast/TaylorSwiftResults1/assets/images/2024_taylors_waves_spectrogram_annotated.png)
+![Livestream Screenshot](https://github.com/Kisleif/WAVE-hamburg-contrast/blob/master/assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png?raw=true)
+
 
 ## How does the city of Hamburg swing along to Taylor Swift?
 
