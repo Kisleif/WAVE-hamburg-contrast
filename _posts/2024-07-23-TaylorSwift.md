@@ -3,7 +3,7 @@ title: "Livestream of Taylor Swift making WAVEs"
 categories:
   - outreach
 tags:
-  - outrach
+  - outreach
 ---
 
 ![Livestream Screenshot](/assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png)
