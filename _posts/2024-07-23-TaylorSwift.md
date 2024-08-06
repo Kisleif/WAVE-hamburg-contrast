@@ -6,7 +6,7 @@ tags:
   - outreach
 ---
 
-![Livestream Screenshot](/assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png)
+![Livestream Screenshot](./assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png)
 
 ## How does the city of Hamburg swing along to Taylor Swift?
 
